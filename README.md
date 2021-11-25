@@ -1,3 +1,5 @@
+![banner](https://user-images.githubusercontent.com/16228144/143417466-4d28dd09-7dcb-46e5-b5f7-2b4061c23d45.png)
+
 # **Hi, I’m Duy 👋**
 
 - I am a free software programmer.
